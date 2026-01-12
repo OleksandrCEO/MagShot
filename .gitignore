@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+# develop.env/
+# env.bak
+# venv.bak/
+
+# nix-environment
+.direnv/
+
+# Rope project settings
+.ropeproject
+
+# IDE
+.notes
+.vscode
+docker-stack.yml
+
+.idea
+.idea/*
+
+# Nix build results
+result
+result-*
