@@ -38,7 +38,7 @@ Import the following module into your `configuration.nix` or `home-manager` conf
     let
         deps = with pkgs; [
             coreutils
-            kdePackages.spectacle # Use 'libsForQt5.spectacle' for Plasma 5
+            kdePackages.spectacle
             wl-clipboard
         ];
     
