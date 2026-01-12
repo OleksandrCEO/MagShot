@@ -3,10 +3,6 @@
 .venv
 env/
 venv/
-ENV/
-# develop.env/
-# env.bak
-# venv.bak/
 
 # nix-environment
 .direnv/
